@@ -4,7 +4,7 @@ This repository contains the code used to generate the figures and numerical
 results in the paper:
 
 Carlos Gomez-Uribe, *Planck Law from a Classical Free Energy Extremum*,
-Quantum Studies: Mathematics and Foundations (2025).
+Quantum Studies: Mathematics and Foundations (2026).
 
 ## Contents
 - `simulation.py`: main simulation code
