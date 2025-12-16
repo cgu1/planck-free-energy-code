@@ -163,3 +163,10 @@ pip install -r requirements.txt
 Run:
 bash
 python scripts/run_appendixD.py
+
+If you use this code, please cite:
+
+Carlos Gomez-Uribe,
+“Planck’s Law from a Classical Free Energy Extremum Involving Fisher Information,”
+Quantum Studies: Mathematics and Foundations (2026),
+arXiv:2506.00586
